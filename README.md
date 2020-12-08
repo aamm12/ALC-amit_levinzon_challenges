@@ -1,5 +1,5 @@
 # ALC-amit_levinzon_challenges
-This is challenges that I wrote in order to strengthen knowledge in cpp.
+This are challenges that I wrote in order to strengthen knowledge in cpp.
 
 To start a level you will need a password in order to uzip the folder.
 
